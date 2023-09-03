@@ -1,0 +1,12 @@
+https://github.com/Palc3301/NodeMarket
+
+O que fizemos neste projeto? 
+ - Basicamente, construi um sistema para gerenciar produtos, campanhas e informações do usuário.
+
+Qual é o propósito de cada parte? 
+ -Modelo de dados: Defini como cada item da lista deve ser escrito. Por exemplo, para um produto dizemos que ele deve ter um nome e   um preço. 
+ -Controlador: Criamos “controladores” para cada lista. Eles sabem como adicionar, visualizar, atualizar ou remover itens de menu. Métodos: Vamos mapear a lista.  Quando alguém diz “Quero adicionar um novo produto”, o sistema sabe exatamente onde colocá-lo na lista de produtos. 
+ -Dependências: Para construir nossos sistemas, utilizamos ferramentas que nos auxiliam. É como digitar em um computador. Essas ferramentas incluem um aplicativo chamado Express para construir nosso sistema, outro aplicativo chamado Mongoose para gerenciar nossos dados e um terceiro aplicativo chamado Winston para manter registros. 
+Qual é o objetivo deste projeto? 
+  Facilitar o gerenciamento de listas de compras online. Os usuários podem adicionar, visualizar, editar e excluir produtos, campanhas e itens das listas de  usuários.  Como você inicia o projeto? 
+  Para iniciar o sistema, basta digitar npm start em seu computador. Resumindo, o projeto é organizar uma lista de compras online onde as pessoas possam adicionar produtos, eventos e usuários.
